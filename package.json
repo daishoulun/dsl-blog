@@ -1,0 +1,24 @@
+{
+  "name": "dsl-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daishoulun/dsl-blog.git"
+  },
+  "author": "daishoulun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daishoulun/dsl-blog/issues"
+  },
+  "homepage": "https://github.com/daishoulun/dsl-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
